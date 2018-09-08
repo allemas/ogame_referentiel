@@ -1,4 +1,4 @@
-# Express mongodb es6 boilerplate
+# OGAME's players referential
 
 Starter Project for building RESTful APIs Ogame's players referential using Node.js, Express and MongoDB.
 
